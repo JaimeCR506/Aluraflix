@@ -98,14 +98,6 @@
       "codigoSeguridad": "555555555",
       "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685821856/q58g3swdjnxv30u3jkux.png",
       "id": 16
-    },
-    {
-      "titulo": "React course",
-      "linkVideo": "https://www.youtube.com/watch?v=U2Wltnv-doo&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR",
-      "Categoria": "Front End",
-      "descripcion": "Dasfs",
-      "codigoSeguridad": "5555555",
-      "id": 17
     }
   ],
   "categorias": [
